@@ -1,6 +1,7 @@
 # eBASE_Demo
 **Paper**: eBASE: Real-Time Battery Swap Recommendation System for eBike Users
-**Description**: The demonstration of the eBASE, termed as Hangzhou Intelligent Urban Green Travel.
+
+**Description**: The demonstration of the Intelligent Battery Swap Recommendation System built on eBASE.
 ## The url of the demo
 You can find the interactive demo here: 
 [ Hangzhou Intelligent Urban Green Travel](https://routemapsit.yugu.net.cn/index.html)
