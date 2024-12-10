@@ -4,6 +4,7 @@
 **Description**: The demonstration of the Intelligent Battery Swap Recommendation System built on eBASE.
 ## The url of the demo
 You can find the interactive demo here: 
-[Video Demonstration](https://routemapsit.yugu.net.cn/index.html)
+[Interactive Demonstration](https://routemapsit.yugu.net.cn/index.html)
 ## The url of the demonstration video
 You can find the video illustrating the demo here: 
+[Video Demonstration]()
