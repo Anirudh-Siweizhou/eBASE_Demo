@@ -5,9 +5,9 @@
 ## The url of the demo
 You can find the interactive demo here: 
 
-[Interactive Demonstration（CN Verison）](https://routemapsit.yugu.net.cn/index.html)
+[Interactive Demonstration（CN Verison）](https://routemapsit.yugu.net.cn/index6.html)
 
-[Interactive Demonstration（EN Verison）](https://routemapsit.yugu.net.cn/index6.html)
+[Interactive Demonstration（EN Verison）](https://routemapsit.yugu.net.cn/index.html)
 
 ## The url of the demonstration video
 You can find the video illustrating the demo here: 
