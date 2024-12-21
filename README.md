@@ -1,7 +1,7 @@
 # eBASE_Demo
 **Paper**: eBASE: Real-Time Battery Swap Recommendation System for eBike Users
 
-**Comments**: Submitted to DASDAA 2025.
+**Comment**: Submitted to DASDAA 2025.
 
 **Description**: The demonstration of the Intelligent Battery Swap Recommendation System built on eBASE.
 ## The url of the demo
